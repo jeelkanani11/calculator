@@ -1,0 +1,50 @@
+.section1 img {
+  background-color: #f3effb;
+  border-radius: 20px;
+  height: 200px;
+  width: 230px;
+  padding: 15px;
+  margin: 15px;
+}
+.title{
+  color: #8248d4c2;
+}
+.title1{
+  margin: 20px 0 -4px 0;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.card1 {
+  margin: auto;
+  border-radius: 20px;
+  background: #dac4fb63;
+  height: auto;
+  border: 1px solid #c8a6f7;
+  border-radius: 10px;
+  text-align: center;
+}
+.btn1 {
+  width: auto;
+  background-color: #BA8FFE;
+  color: white;
+  border-radius: 10px;
+  padding: 6px;
+  font-size: 15px;
+  border: 1px solid #BA8FFE;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn1:hover {
+  background-color: #cab0f3;
+  color: white;
+  border-color:#cab0f3 ;
+}
+
+@media only screen and (max-width: 375px) {
+ .card{
+  height: auto;
+ }
+}
+
+
+
