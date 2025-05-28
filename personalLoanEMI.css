@@ -17,6 +17,7 @@
 }
 .card1 {
   margin: auto;
+  width: 330px;
   border-radius: 20px;
   background: #dac4fb63;
   height: auto;
@@ -26,11 +27,12 @@
 }
 .btn1 {
     width: auto;
+    height: 33px;
     align-items: center;
     justify-content: center;
     gap: 10px;
     background-color: #BA8FFE;
-    font-size: 14px;
+    /* font-size: 14px; */
     padding: 5px 10px;
     border-radius: 10px;
     transition: all 0.3s ease-in-out;
@@ -41,7 +43,7 @@
     line-height: 21px;
 }
 .btn1:hover {
-  background-color: #c7a9f7;
+  background-color: #c8a8fc;
   color: white;
   border-color:#cab0f3 ;
 }

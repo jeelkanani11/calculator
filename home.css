@@ -24,7 +24,7 @@ html, body {
   height: 100%;
 }
 .card-title{
-  font-size: 16px;
+  font-size: 17px;
   line-height: 20px;
   /* color: #2F9CD9; */
   font-weight: 600;
@@ -128,6 +128,9 @@ h4,h3,h2{
     background-color: #ab7eeb;
     color:white;
 }
+.btn-text{
+  font-size: 12px !important;
+}
 .underline {
   width: 125px;
   height: 3px;
@@ -157,9 +160,16 @@ p{
   line-height: 20px;
   color: #545454;
   padding: 0;
+  letter-spacing: 0.3px
 }
 ul{
   font-size: 15px;
+}
+a{
+  color: unset;
+  text-decoration: none;
+  font-size: unset;
+  color: unset;
 }
 
 @media only screen and (max-width: 430px) {
