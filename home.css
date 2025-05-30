@@ -35,7 +35,7 @@ body {
 }
 .navbar {
   background-color: #ab7ced;
-  height: 50px;
+  height: 55px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -43,6 +43,7 @@ body {
   top: 0;
   left: 0;
   z-index: 1;
+  padding: 10px;
 }
 .nav-img {
   margin: auto;
