@@ -27,6 +27,7 @@
 }
 .btn1 {
     width: auto;
+    height: 37px !important;
     height: 33px;
     align-items: center;
     justify-content: center;
