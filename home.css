@@ -183,9 +183,6 @@ a {
   font-size: unset;
   color: unset;
 }
-a:hover {
-  color: unset;
-}
 .form-control {
   height: 45px;
   font-size: 14px;
